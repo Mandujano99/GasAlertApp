@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "988561218729",
+    "firebase_url": "https://gasalert-c58b6-default-rtdb.firebaseio.com",
+    "project_id": "gasalert-c58b6",
+    "storage_bucket": "gasalert-c58b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988561218729:android:92d738e08853ef39419db8",
+        "android_client_info": {
+          "package_name": "com.example.fcmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7BoFH9o8BWEVplPHMKlUNxY_lGRt8WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988561218729:android:1b49c3121fd958bd419db8",
+        "android_client_info": {
+          "package_name": "com.example.gasalertapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7BoFH9o8BWEVplPHMKlUNxY_lGRt8WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
